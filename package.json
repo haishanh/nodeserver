@@ -1,6 +1,6 @@
 {
   "name": "hs-nodeserver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SimpleHTTPServer for Node",
   "main": "index.js",
   "bin": {
@@ -12,6 +12,8 @@
   "author": "Han Haishan <haishanhan@gmail.com> (http://hanhaishan.com)",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.13.3"
+    "commander": "^2.9.0",
+    "express": "^4.14.0",
+    "serve-index": "^1.8.0"
   }
 }
