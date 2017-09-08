@@ -1,6 +1,6 @@
 {
   "name": "hs-nodeserver",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "SimpleHTTPServer for Node",
   "main": "index.js",
   "bin": {
