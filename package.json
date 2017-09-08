@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Han Haishan <haishanhan@gmail.com> (http://hanhaishan.com)",
+  "author": "Han Haishan <haishanhan@gmail.com> (http://haishan.me)",
   "license": "MIT",
   "dependencies": {
     "commander": "^2.9.0",
