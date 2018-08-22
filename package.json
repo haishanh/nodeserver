@@ -1,6 +1,6 @@
 {
   "name": "hs-nodeserver",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "SimpleHTTPServer for Node",
   "main": "index.js",
   "bin": {
@@ -10,6 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Han Haishan <haishanhan@gmail.com> (http://haishan.me)",
+  "repository": "haishanh/nodeserver",
   "license": "MIT",
   "dependencies": {
     "commander": "2.15.0",
